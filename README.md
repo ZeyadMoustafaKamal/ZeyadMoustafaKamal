@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeyadMoustafaKamal
-- 👀 I’m interested in python
-- 🌱 I’m currently learning DataAnalysis using pandas and visualisation using matplotlib
+- 👀 I’m interested in FrontEnd development
+- 🌱 I’m currently learning CSS an JavaScript
 - 💞️ I’m looking to collaborate on making a big project in the future for helping startups ^_^.
 - 📫 How to reach me zeyad20062018@gmail.com
 
