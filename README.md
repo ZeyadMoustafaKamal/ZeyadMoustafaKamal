@@ -5,7 +5,9 @@
 
 ```python
 from . import Life
+
 me = Life()
+
 while me.is_alive:
     me.start_coding()
     if me.have_problem:
@@ -13,6 +15,7 @@ while me.is_alive:
             me.search_for_solution()
         except SearchingFailed:
             me.ask_chatgpt()
+
     if me.made_it:
         me.have_fun()
 
