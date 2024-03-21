@@ -24,6 +24,8 @@ while me.is_alive:
 
     if me.did_it:
         me.have_some_fun()
+    else:
+      me.try_again()
 ```
 
 ### My tech stack
